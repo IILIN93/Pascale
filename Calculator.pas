@@ -12,9 +12,6 @@ begin
   read(x1);
   read(x1);
   read(x1);
-  read(x1);
-  read(x1);
-  read(x1);
   write(' Введите 2 число: ');
   read(x2);
   read(x2)
