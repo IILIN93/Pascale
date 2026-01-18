@@ -5,7 +5,26 @@ var
   ch: char;
 
 begin
-   if ch = '+' then 
+  write(' Введите арифм. действие: ');
+  read(ch);
+  write(' Введите 1 число: ');
+  read(x1);
+  read(x1);
+  read(x1);
+  read(x1);
+  read(x1);
+  read(x1);
+  read(x1);
+  write(' Введите 2 число: ');
+  read(x2);
+  read(x2)
+  read(x2)
+  read(x2)
+  read(x2)
+  read(x2)
+  read(x2)
+  read(x2)
+  if ch = '+' then 
     o := x1 + x2;
   if ch = '-' then 
     o := x1 - x2;
