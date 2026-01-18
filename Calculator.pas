@@ -8,8 +8,13 @@ begin
   write(' Введите арифм. действие: ');
   read(ch);
   write(' Введите 1 число: ');
-  read(x1);cvbcvb
-
+  read(x1);
+  read(x1);
+  read(x1);
+  read(x1);
+  read(x1);
+  read(x1);
+  read(x1);
   write(' Введите 2 число: ');
   read(x2);
   if ch = '+' then 
