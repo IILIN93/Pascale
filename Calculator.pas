@@ -17,6 +17,13 @@ begin
   read(x1);
   write(' Введите 2 число: ');
   read(x2);
+  read(x2)
+  read(x2)
+  read(x2)
+  read(x2)
+  read(x2)
+  read(x2)
+  read(x2)
   if ch = '+' then 
     o := x1 + x2;
   if ch = '-' then 
